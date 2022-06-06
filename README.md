@@ -28,7 +28,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-official/LoRD-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H4HEADFF/H4-HEAD-FF-MD)
 
 
 ### `⨷ DEPLOY`
@@ -37,7 +37,7 @@
 
 👉 <b>Copy this link and paste it on your browser Change H4HEADFF to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/H4HEADFF/LoRD-MD
+  https://heroku.com/deploy?template=https://github.com/H4HEADFF/H4-HEAD-FF-MD
 ```
 <br>
 
