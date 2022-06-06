@@ -20,7 +20,7 @@
 
 - To use This bot you need fork this first <br>
 
-[Click Here To Fork](https://github.com/Lord-official/H4-HEAD-FF-MD/fork)
+[Click Here To Fork](https://github.com/H4HEADFF/H4-HEAD-FF-MD/fork)
 
 ## `⨷ SCAN QR`
 
