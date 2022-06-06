@@ -1,6 +1,6 @@
 /**
 ☘︎Recoded By Lord-official.
-☘︎Github https://github.com/Lord-official
+☘︎Github https://github.com/H4HEADFF
 **/
 
 require('./config')
@@ -34,7 +34,7 @@ const fvid = {
                  "title": `H4-HEAD-FF-MD `,
                  "h": `H4-HEAD-FF-MD `,
                  'duration': '99999', 
-                 'caption': `LoRD-MD`,
+                 'caption': `Hᔰ HΣΛD FF ❤`,
                  'jpegThumbnail': global.thumb
                         }
                        }
@@ -1791,7 +1791,7 @@ case 'allmenu': {
                             hydratedContentText: anu,
                           //  locationMessage: {
                        //     jpegThumbnail: fs.readFileSync('./lib/lord.jpg')},
-                            hydratedFooterText: Hᔰ-HΣΛD-FF,
+                            hydratedFooterText: 'Hᔰ-HΣΛD-FF',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑',
