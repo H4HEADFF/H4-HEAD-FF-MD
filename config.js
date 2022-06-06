@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = '𐏓𐊈𐊗𐊖 𐊰𐊤 H𐦢 𐋏𐊤𐋎D 𐊥𐊥 💖🇮'
 global.ucpn = ''
 
 //================= Url =================//
@@ -34,13 +34,13 @@ global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
-global.sessionName = 'lord'
-global.prefa = ['','!','.','🐦',',','*']
+global.watermark = '𐏓𐊈𐊗𐊖 𐊰𐊤 H𐦢 𐋏𐊤𐋎D 𐊥𐊥 💖'
+global.owner = ['919544498843']
+global.premium = ['919544498843']
+global.packname = 'Hᔰ HΣΛD FF ❤'
+global.author = '𝙷𝟺 𝙷𝙴𝙰𝙳 𝙵𝙵'
+global.sessionName = '𝐇𝟒 𝐇𝐄𝐀𝐃 𝐅𝐅'
+global.prefa = ['']
 global.sp = '❄︎'
 global.mess = {
     success: '𝑺𝒖𝒄𝒄𝒆𝒔𝒔✔︎',
@@ -57,7 +57,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./lib/lord.jpg')
+global.thumb = fs.readFileSync('./lib/h4headff.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
