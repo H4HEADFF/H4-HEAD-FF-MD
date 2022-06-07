@@ -12,8 +12,8 @@ const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/myfunc')
 
-global.authFile ='./H4.json'
-if(!fs.existsSync('./H4.json')){
+global.authFile ='./lord.json'
+if(!fs.existsSync('./lord.json')){
     MakeSession(process.env.SESSION_ID || 'RDNETjFIcHI=',authFile)
     }
 
@@ -92,10 +92,10 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                         hydratedTemplate: {
                             hydratedContentText: hehe,
                                locationMessage: {
-                           jpegThumbnail: fs.readFileSync('./lib/h4headff.jpg')},
+                           jpegThumbnail: fs.readFileSync('./lib/lord.jpg')},
       
                        //    jpegThumbnail: ppuser,
-                            hydratedFooterText: `𝐇𝟒 𝐇𝐄𝐀𝐃 𝐅𝐅`,
+                            hydratedFooterText: `H4-HEAD-FF-MD`,
                             hydratedButtons: [{
                                 
                                 urlButton: {
@@ -156,7 +156,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 	for (let i of kon) {
 	    list.push({
 	    	displayName: await hisoka.getName(i + '@s.whatsapp.net'),
-	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await hisoka.getName(i + '@s.whatsapp.net')}\nFN:${await hisoka.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET: mohadsayhan@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:http://instagram.com/h4_head_ff?igshid=YmMyMTA2M2Y=\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;India;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await hisoka.getName(i + '@s.whatsapp.net')}\nFN:${await hisoka.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:mohadsayhan@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:http://instagram.com/h4_head_ff?igshid=YmMyMTA2M2Y=\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;India;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
 	    })
 	}
 	hisoka.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })
