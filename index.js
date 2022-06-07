@@ -58,7 +58,7 @@ async function startHisoka() {
         if (!hisoka.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(hisoka, mek, store)
-        require("./H4-HEAD-FF")(hisoka, m, chatUpdate, store)
+        require("./LoRD")(hisoka, m, chatUpdate, store)
         } catch (err) {
             //console.log(err)
         }
@@ -95,7 +95,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                            jpegThumbnail: fs.readFileSync('./lib/lord.jpg')},
       
                        //    jpegThumbnail: ppuser,
-                            hydratedFooterText: `H4-HEAD-FF-MD`,
+                            hydratedFooterText: 'LoRD-MD',
                             hydratedButtons: [{
                                 
                                 urlButton: {
