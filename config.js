@@ -40,7 +40,7 @@ global.premium = ['919544498843']
 global.packname = 'Hᔰ HΣΛD FF ❤'
 global.author = '𝙷𝟺 𝙷𝙴𝙰𝙳 𝙵𝙵'
 global.sessionName = '𝐇𝟒 𝐇𝐄𝐀𝐃 𝐅𝐅'
-global.prefa = ['','.','🐦']
+global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
 global.mess = {
     success: '𝑺𝒖𝒄𝒄𝒆𝒔𝒔✔︎',
