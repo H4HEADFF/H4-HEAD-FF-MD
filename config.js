@@ -1,5 +1,5 @@
 /**
-   * Created By LoRD.
+   * Created By H4HEADFF.
    * Contact Me on wa.me/919544498843
    * Subscribe me on yt https://youtube.com/channel/UCd7j8SlD_JcTGxIkcVxsk5A
 **/
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '𐏓𐊈𐊗𐊖 𐊰𐊤 H𐦢 𐋏𐊤𐋎D 𐊥𐊥 💖🇮'
+global.wm = '𝙷𝟺 𝙷𝙴𝙰𝙳 𝙵𝙵🇮'
 global.ucpn = ''
 
 //================= Url =================//
