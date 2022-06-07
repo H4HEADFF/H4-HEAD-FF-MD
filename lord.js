@@ -175,7 +175,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
    })
         }
         const replay = (teks) => {
-            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ʟᴏʀᴅ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `Follow me on instagram`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y="}}}, { quoted: lordofc})
+            hisoka.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `ʟᴏʀᴅ-ᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`,"body": `Follow me on instagram`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": global.tgumb,"sourceUrl": "http://instagram.com/h4_head_ff?igshid=YmMyMTA2M2Y="}}}, { quoted: lordofc})
         }
 	    
         // Group
